@@ -1,3 +1,4 @@
 server:
   port: 9097
-name: abcd123
+abc:
+   name: abcd123
